@@ -1,0 +1,14 @@
+.tdRempli{
+    height: 60px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.tabCal{    
+    table-layout: fixed;
+}
+th{
+   
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
